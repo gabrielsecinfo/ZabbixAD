@@ -31,7 +31,10 @@ Vamos criar itens para o host.
 
 Colocamos o nome de item, o tipo dele: agente zabbix e a chave para qual está definida para pingar (agent.ping)
 <img src="zabbix/image8.png"/>
-    Ok com grupo de host, host,  e itens criados vamos para o grafana fazer a configuração da interface gráfica 
+    
+    
+Ok com grupo de host, host,  e itens criados vamos para o grafana fazer a configuração da interface gráfica 
+
  <img src="zabbix/image9.png"/>
 
    Vamos iniciar o grafana e ir em dashboards e criar um novo e adicionar uma virtualização.
