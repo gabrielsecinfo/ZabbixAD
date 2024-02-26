@@ -1,9 +1,9 @@
 # ZabbixAD
 Implementação do monitoramento do servidor Windows Server 2012 R2, especialmente dedicado ao Active Directory, por meio da integração entre Zabbix e Grafana.
 
-  Após subir o sistema do Zabbix, vamos na opção de grupo de host e criar um grupo.
+    Após subir o sistema do Zabbix, vamos na opção de grupo de host e criar um grupo.
     $img1  
-   $img2
+    $img2
 
     Ao criar o grupo de host iremos criar um host e itens incluído no próprio
 
@@ -26,13 +26,13 @@ Implementação do monitoramento do servidor Windows Server 2012 R2, especialmen
     Ok com grupo de host, host,  e itens criados vamos para o grafana fazer a configuração da interface gráfica 
     $img9
 
-    Vamos iniciar o grafana e ir em dashboards e criar um novo e adicionar uma virtualização.
+   Vamos iniciar o grafana e ir em dashboards e criar um novo e adicionar uma virtualização.
     
     $img10
     $img11
 
     
-  Após criar um novo dashboard e sua virtualização, vamos selecionar group, host e item e configurar o design do gráfico 
+    Após criar um novo dashboard e sua virtualização, vamos selecionar group, host e item e configurar o design do gráfico 
 
       $img12
 
