@@ -3,7 +3,10 @@
 
    Após subir o sistema do Zabbix, vamos na opção de grupo de host e criar um grupo.
 <img src="zabbix/image1.png"/>
+
+
 <img src="zabbix/image2.png"/>
+
 
    Ao criar o grupo de host iremos criar um host e itens incluído no próprio
 
@@ -16,6 +19,8 @@ na interface iremos adicionar um agente de ip 192.168.2.18 e com a porta 10050 (
 
 Vamos criar itens para o host.
 <img src="zabbix/image5.png"/>
+
+
 <img src="zabbix/image6.png"/>
 
  Ao entrar no menu de criação do items temos a opção da chave do zabbix
@@ -29,6 +34,7 @@ Colocamos o nome de item, o tipo dele: agente zabbix e a chave para qual está d
    Vamos iniciar o grafana e ir em dashboards e criar um novo e adicionar uma virtualização.
     
   <img src="zabbix/image10.png"/>
+  
   <img src="zabbix/image11.png"/>
     
 Após criar um novo dashboard e sua virtualização, vamos selecionar group, host e item e configurar o design do gráfico 
