@@ -46,6 +46,6 @@ Após criar um novo dashboard e sua virtualização, vamos selecionar group, hos
       
 <img src="zabbix/image12.png"/>
 
- A configuração de todas as outras virtualização funcionou do mesmo jeito.
+ A configuração de todas as outras virtualização funcionou do mesmo jeito porém alterando para objetivo: como exemplo o site no qual só foi criado outro item com uma chave específica para o uso.
       
   
