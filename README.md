@@ -1,5 +1,5 @@
 # ZabbixAD
-                Implementação do monitoramento do servidor Windows Server 2012 R2, especialmente dedicado ao Active Directory, por meio da integração entre Zabbix e Grafana.
+    Implementação do monitoramento do servidor Windows Server 2012 R2, especialmente dedicado ao Active Directory, por meio da integração entre Zabbix e Grafana.
 
    Após subir o sistema do Zabbix, vamos na opção de grupo de host e criar um grupo.
 <img src="zabbix/image1.png"/>
