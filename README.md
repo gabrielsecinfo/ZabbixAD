@@ -18,6 +18,8 @@ na interface iremos adicionar um agente de ip 192.168.2.18 e com a porta 10050 (
  <img src="zabbix/image4.png"/>
 
 Vamos criar itens para o host.
+
+
 <img src="zabbix/image5.png"/>
 
 
@@ -39,10 +41,10 @@ Colocamos o nome de item, o tipo dele: agente zabbix e a chave para qual está d
     
 Após criar um novo dashboard e sua virtualização, vamos selecionar group, host e item e configurar o design do gráfico 
 
-  <img src="zabbix/image12.png"/>
+ <img src="zabbix/image11.png"/>
       A configuração vamos colocar o grupo que criamos o zabbix, o host e o item que foi criado anteriomente.
       
- <img src="zabbix/image13.png"/>
+<img src="zabbix/image12.png"/>
 
  A configuração de todas as outras virtualização funcionou do mesmo jeito.
       
